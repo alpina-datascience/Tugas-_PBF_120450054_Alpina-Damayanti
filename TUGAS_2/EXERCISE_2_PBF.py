@@ -1,3 +1,8 @@
+# Author : Alpina Damayanti 
+# NIM : 120450054
+# Kelas : RB
+# Affiliation : Sains Data ITERA
+
 import numpy as np
 a = open("text1.txt", 'w')
 a.write("9502561694858652150281747994108545943651521215096841995237040384498740803993469376602031341619585763")
