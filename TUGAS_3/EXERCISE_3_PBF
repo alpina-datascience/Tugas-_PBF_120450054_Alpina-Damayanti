@@ -13,7 +13,7 @@ membuat file solver.py
 
 3. Untuk menyelesaikan persamaan dengan
 solver.py, bentuk fungsi harus diubah menjadi:
-dt^2a/dt^2 = (-g/L) * (sin(a))
+d^2a/dt^2 = (-g/L) * (sin(a))
 Definisikan fungsi Func sebagai fungsi yang
 me return nilai -g/L * sin(a)
 (didalam ppt tugas 3)
